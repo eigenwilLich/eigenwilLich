@@ -34,7 +34,7 @@ Diese Seite ist auch auf Deutsch verfügbar:
 <details>
 <summary>🇩🇪 Klick hier für die deutsche Version</summary>
 
-### 👋 Hi, ich bin Alan – auch bekannt als eigenwilLich
+# 👋 Hi, ich bin Alan – auch bekannt als eigenwilLich
 
 Ich bin angehender Fachinformatiker für Anwendungsentwicklung – leidenschaftlich neugierig auf alles rund um Künstliche Intelligenz, Webentwicklung und kreative Programmierprojekte.
 Ich mag es, Systeme nicht nur zu bauen, sondern zu verstehen – und mit eigenem Stil weiterzudenken.
