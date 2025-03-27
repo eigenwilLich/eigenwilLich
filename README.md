@@ -23,7 +23,7 @@ I don't just enjoy building systems – I love understanding how they work and s
 
 ## 🛠️ Technologies & Tools
 
-Python · Django · HTML/CSS/JS · Git · VS Code · React (beginner) · Pygame · Markdown
+Python · Django · HTML/CSS/JS · Git · VS Code · Angular (beginner) · Pygame · Markdown
 
 
 ## 🌍 Language / Sprache
@@ -59,6 +59,6 @@ Ich mag es, Systeme nicht nur zu bauen, sondern zu verstehen – und mit eigenem
 
 ## 🛠️ Technologien & Tools
 
-Python · Django · HTML/CSS/JS · Git · VS Code · React (Einsteiger) · Pygame · Markdown
+Python · Django · HTML/CSS/JS · Git · VS Code · Angular (Einsteiger) · Pygame · Markdown
 </details>
 
